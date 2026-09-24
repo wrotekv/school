@@ -1,0 +1,23 @@
+body {
+  background-color: brown;
+}
+
+img {
+  border-radius: 30%;
+  width: 400px;
+}
+img:hover {
+  transition: 0.2s ease-in-out;
+  scale: 0.95;
+}
+img:active {
+  scale: 0.9;
+}
+
+text {
+  color: #f7f7f5;
+  font:
+    500 13px "DM Mono",
+    monospace;
+  letter-spacing: -0.04em;
+}
