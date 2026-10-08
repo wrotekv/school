@@ -17,7 +17,10 @@
 #temperatura_f = temperatura_c * 1.8 + 32
 #print("Podana temperatura w Farenheitach to: " + str(round(temperatura_f,3)))
 
-temperatura_f = float(input("Podaj temperature w Farenheitach: "))
+#temperatura_f = float(input("Podaj temperature w Farenheitach: "))
 
-temperatura_c = (temperatura_f - 32) * 5/9
-print("Podana temperatura w Celcjuszach to: " + str(round(temperatura_c,3)))
+#temperatura_c = (temperatura_f - 32) * 5/9
+#print("Podana temperatura w Celcjuszach to: " + str(round(temperatura_c,3)))
+
+print("porno"
+      )
